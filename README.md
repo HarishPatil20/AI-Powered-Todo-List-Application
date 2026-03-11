@@ -181,8 +181,13 @@ POST /api/chat
 Example:
 
 * Dashboard
+  <img width="1906" height="919" alt="image" src="https://github.com/user-attachments/assets/d93fb823-36c6-4ae1-857c-495a912bb93c" />
+
 * Task Manager
+  <img width="1908" height="919" alt="image" src="https://github.com/user-attachments/assets/727aca50-d4c1-4e3d-baec-8b0c39ed9415" />
+
 * AI Chat Assistant
+<img width="1914" height="931" alt="image" src="https://github.com/user-attachments/assets/e17557b3-5f2c-4c14-b02e-338ebe11f7d0" />
 
 ---
 
